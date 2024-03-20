@@ -9,3 +9,7 @@ https://www.envoyproxy.io/docs/envoy/latest/intro/life_of_a_request
 https://draveness.me/whys-the-design/
 
 https://blog.gmem.cc/interaction-between-istio-pilot-and-envoy
+
+https://www.cnblogs.com/wlandwl?page=2
+
+https://www.cnblogs.com/wlandwl/p/ddd_one.html
